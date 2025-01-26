@@ -4,6 +4,8 @@
 const { readFile, writeFile } = require('fs')
 
 console.log('starting task...')
+
+
 readFile('content/first.txt', 'utf-8', (err, result) => {
   if(err){
     console.log(err)

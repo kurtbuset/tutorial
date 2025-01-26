@@ -1,1 +1,1 @@
-Result: first text file second text file :D
+Result: first text file
